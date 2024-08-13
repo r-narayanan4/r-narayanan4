@@ -1,6 +1,4 @@
 # 💫 About Me:
-🔧 **Currently Working On:**  
-Enhancing DevOps practices at Buildbot Technologies, emphasizing automation using Ansible, Jenkins, Docker, Kubernetes, and AWS.
 
 🤝 **Looking to Collaborate On:**  
 Exciting projects in DevOps and cloud-native tech, especially those involving automating deployment pipelines, optimizing Kubernetes, or building resilient infrastructure. Let's innovate together!
